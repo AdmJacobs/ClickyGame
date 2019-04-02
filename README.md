@@ -4,6 +4,6 @@ Contributors: Adam Jacobs
 
 History: 
 
-Hat tip to:
+Hat tip to: https://reactjs.org/ 
 
-Functionality:
+Functionality: Deployed at https://admjacobs.github.io/ClickyGame/ 
